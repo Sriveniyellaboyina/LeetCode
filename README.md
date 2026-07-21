@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -29,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
