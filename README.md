@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
+| [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
+| [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -54,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
