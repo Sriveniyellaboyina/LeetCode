@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
+| [1768-merge-strings-alternately](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
