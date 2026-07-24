@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
