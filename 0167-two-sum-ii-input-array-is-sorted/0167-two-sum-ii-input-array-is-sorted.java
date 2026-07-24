@@ -13,7 +13,6 @@ class Solution {
             r--;
         }
         return new int[]{};
-
     }
 }
 
