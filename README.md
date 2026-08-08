@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
