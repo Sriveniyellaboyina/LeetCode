@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0223-rectangle-area](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
