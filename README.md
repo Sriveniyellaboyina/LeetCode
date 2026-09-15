@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
 |  |
