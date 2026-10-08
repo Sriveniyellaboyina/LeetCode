@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [1021-remove-outermost-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -172,10 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Geometry
 |  |
 | ------- |
