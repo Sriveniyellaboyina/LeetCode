@@ -9,6 +9,6 @@ class Solution {
         {
             max=Math.max(max,nums[i]-nums[i-1]);
         }
-        return max;
+        return max
     }
 }
