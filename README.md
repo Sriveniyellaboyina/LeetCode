@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
