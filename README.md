@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0877-stone-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sriveniyellaboyina/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
